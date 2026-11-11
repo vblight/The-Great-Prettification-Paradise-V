@@ -1,0 +1,26 @@
+{
+  "paradisev.ytd": {
+    "native_liveries": 18,
+    "originals_redrawn": 4,
+    "custom_and_other_texture_payloads_unchanged": true,
+    "original_resolution": [
+      1024,
+      512
+    ],
+    "graphics_page_MiB": 8.0,
+    "hashes_pointers_valid": true
+  },
+  "paradisev+hi.ytd": {
+    "native_liveries": 18,
+    "originals_redrawn": 4,
+    "custom_and_other_texture_payloads_unchanged": true,
+    "original_resolution": [
+      2048,
+      1024
+    ],
+    "graphics_page_MiB": 32.0,
+    "hashes_pointers_valid": true
+  },
+  "models_metadata_commands_preserved": true,
+  "runtime_tested": false
+}
